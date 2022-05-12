@@ -30,10 +30,10 @@ from keybert import KeyBERT
 
 def clean(sentence):
     
-    '''
-    Funçao que recebe uma string e retira pontuçao, stop words e lematiza a frase. 
-    Retorna uma string;
-    '''
+        '''
+        Funçao que recebe uma string e retira pontuçao, stop words e lematiza a frase. 
+        Retorna uma string;
+        '''
     
         stop = set(stopwords.words('english')) #define stop words
         exclude = set(string.punctuation) #define ponctuation for exclude
@@ -48,11 +48,11 @@ def clean(sentence):
     
 
 
-    '''
-    Funçao que recebe uma string e um idioma e realiza analise de sentimentos (invocando o metodo responsavel);
-    Retorna as emoçoes associadas num objeto json.
-    '''
-    
+'''
+Funçao que recebe uma string e um idioma e realiza analise de sentimentos (invocando o metodo responsavel);
+Retorna as emoçoes associadas num objeto json.
+'''
+
 
 def sentiment_analysis(text, language):  
     
@@ -66,10 +66,10 @@ def sentiment_analysis(text, language):
     
 
 
-    '''
-    Funçao que recebe uma lista de hashtags e verifica se a hashtags tem alguma emoçao;
-    Retorna as a lista de hahstags onde foi detetada emoçao;
-    '''
+'''
+Funçao que recebe uma lista de hashtags e verifica se a hashtags tem alguma emoçao;
+Retorna as a lista de hahstags onde foi detetada emoçao;
+'''
 
 def hashtags_check_emotion(hashtaglist):
         ## call the module of sentiment analysis
@@ -89,12 +89,12 @@ def hashtags_check_emotion(hashtaglist):
 
 
 
-    '''
-    Função principal que gera hashtags para um dado texto recebido como input
-    Retorna uma lista de hashtags com emoçao associada e que fazem sentido no contexto do artigo;
-    
-    utilzia um modelo LDA para realizar a extraçao de topicos.
-    '''
+'''
+Função principal que gera hashtags para um dado texto recebido como input
+Retorna uma lista de hashtags com emoçao associada e que fazem sentido no contexto do artigo;
+
+utilzia um modelo LDA para realizar a extraçao de topicos.
+'''
 
 def generateHashtags (text):
     topicsNun = 6
