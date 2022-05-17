@@ -1,5 +1,5 @@
 v1/*.csv
-GTP_3/*.csv
+*.csv
 .DS_Store
 __pycache__
 .ipynb_checkpoints
