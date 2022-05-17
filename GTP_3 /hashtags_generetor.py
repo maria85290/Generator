@@ -129,7 +129,7 @@ def generateHashtags (text):
         for h in t[1].split('+'):    
             hashtags.append(h[h.find('"')+1:h.rfind('"')])
 
-    print(hashtags)
+     ##print(hashtags)
     playload = hashtags_check_emotion (list(set(hashtags)))
 
     return (playload)
