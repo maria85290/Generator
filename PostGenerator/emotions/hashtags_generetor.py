@@ -14,9 +14,7 @@ from nltk.stem.wordnet import WordNetLemmatizer
 import gensim
 from gensim import corpora
 import string
-
-
-import sentimentAnalysis
+import requests
 
 
 
@@ -39,6 +37,16 @@ def clean(sentence):
         return normalized
     
     
+def emotionsMetter(text,lang):
+    body = {
+
+        "messages": text,
+        "language": lang
+
+        }
+
+    request = requests.post("http://146.59.159.119:9777", json = body)
+    return (request.text.encode().decode('unicode-escape') , request.status_code)
 
 
 '''
@@ -52,7 +60,7 @@ def sentiment_analysis(text, language):
     status_code = 0 ## Valor inicial 
     
     while (status_code != 200):
-        emotions, status_code = sentimentAnalysis(text,language)
+        emotions, status_code = emotionsMetter(text,language)
     playload_emotions = json.loads(emotions)
     
     return playload_emotions

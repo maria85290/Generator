@@ -3,7 +3,7 @@ import random
 import json
 
 def interjections (evaluation):
-    with open('../../corpus/interjections.json') as f:
+    with open('interjections_corpus.json') as f:
         interjection = json.load(f)
         if evaluation == "true":
             l = random.choice (interjection["true"])

@@ -35,7 +35,7 @@ def capslock(data):
     #emoji.emojize(':thumbs_up:')
     post.append(allegation)
     #+ choice(dic[data['evaluation']])
-    return post
+    return ' '.join(post)
 
 
 def main(text):
