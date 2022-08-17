@@ -25,8 +25,8 @@ def emojis_sellection (evaluation):
     for index, row in data.iterrows():
         if row['classification'] == sentiment:
             list_emojis.append(row['emojis'])
-    print(list_emojis)
-    return list_emojis
+    #print(list_emojis)
+    return choice(list_emojis)
 
 
 

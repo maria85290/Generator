@@ -1,0 +1,11 @@
+{   "anger": [],
+    "anticipation" : [],
+    "trust" : [],
+    "sadness": [],
+    "joy": [],
+    "disgust": [],
+    "fear": ["aah"],
+    "surprise" : [],
+    "true" : ["ahh", "aww", "bingo", "oh", "wow", "yeah"],
+    "fake" : ["aah", "eww","hmph", "oops", "ouch", "wow"]
+}

@@ -100,6 +100,8 @@ utilzia um modelo LDA para realizar a extraçao de topicos.
 def generateHashtags (text):
     topicsNun = 6
     passes = 50
+
+    
     
    # text = ' '.join(data['postText']).split('\n')
 
@@ -129,8 +131,6 @@ def generateHashtags (text):
     for t in topic:
         for h in t[1].split('+'):    
             hashtags.append(h[h.find('"')+1:h.rfind('"')])
-
-    print(hashtags)
     playload = hashtags_check_emotion (list(set(hashtags)))
 
     return (playload)
