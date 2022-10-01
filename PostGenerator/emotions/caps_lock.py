@@ -13,7 +13,8 @@ from keybert import KeyBERT
 
 def capslock(data):
     
-    text = re.sub(r'[^\w\s]', '', data) 
+    #text = re.sub(r'[^\w\s]', '', data) 
+    text = data
     words_allegation = [word.lower() for word in text.strip('\n').split() ]
     
     

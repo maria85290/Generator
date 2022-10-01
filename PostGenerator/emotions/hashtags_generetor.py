@@ -36,8 +36,11 @@ def clean(sentence):
         
         return normalized
     
-    
+'''
+Ferramenta emotions metter
+'''
 def emotionsMetter(text,lang):
+    print('emotions')
     body = {
 
         "messages": text,
@@ -47,6 +50,19 @@ def emotionsMetter(text,lang):
 
     request = requests.post("http://146.59.159.119:9777", json = body)
     return (request.text.encode().decode('unicode-escape') , request.status_code)
+
+
+'''
+Ferramenta emotions metter
+'''
+from nrclex import NRCLex
+
+def emotionsNRClex(text):
+  
+    emotion = NRCLex(text)
+    emotions_list = emotion.affect_frequencies
+    return emotions_list
+
 
 
 '''
@@ -61,7 +77,9 @@ def sentiment_analysis(text, language):
     
     while (status_code != 200):
         emotions, status_code = emotionsMetter(text,language)
+        print(emotions)
     playload_emotions = json.loads(emotions)
+    #print('emotions')
     
     return playload_emotions
     
@@ -74,10 +92,13 @@ Retorna as a lista de hahstags onde foi detetada emoçao;
 
 def hashtags_check_emotion(hashtaglist):
         ## call the module of sentiment analysis
+
+        '''
         playload_emotions  = playload = sentiment_analysis(hashtaglist,'en')
    
         sortedByEmotion = {k: v for k, v in sorted(playload_emotions.items(), key=lambda item: (item[1]['emotions']['sadness'] + item[1]['emotions']['surprise'] + item[1]['emotions']['trust'] + item[1]['emotions']['anger'] + item[1]['emotions']['disgust'] + item[1]['emotions']['fear'] + item[1]['emotions']['joy']), reverse=True)}
        # print(sortedByEmotion)
+
         playload = [] ## add only the hashtags with some percentage of emotion
         
         
@@ -86,6 +107,19 @@ def hashtags_check_emotion(hashtaglist):
                 #print((emotion['emotions']['sadness'] + emotion['emotions']['surprise'] + emotion['emotions']['trust'] + emotion['emotions']['anger'] + emotion['emotions']['disgust'] + emotion['emotions']['fear'] + emotion['emotions']['joy']) > 0)
                 playload.append(hashtag)
                 
+        '''
+       ################ NRC LEX #####################
+        playload = [] ## add only the hashtags with some percentage of emotion
+
+        for hashtag in hashtaglist:
+            playload_emotions = emotionsNRClex(hashtag)
+          #  print(playload_emotions )
+            if (playload_emotions['sadness'] + playload_emotions['surprise'] + playload_emotions['trust'] + playload_emotions['anger'] + playload_emotions['disgust'] + playload_emotions['joy'] + playload_emotions['fear']) > 0:
+                    playload.append(hashtag)
+        #print(playload)
+
+
+       ################################################
         return (playload)
 
 
