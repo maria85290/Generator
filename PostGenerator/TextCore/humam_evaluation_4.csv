@@ -1,0 +1,51 @@
+,id,model,sentence,eval
+0,1650725379.167554,T5,"video shows a reporter standing in front of dozens of body bags. as the clip goes on, one of the “dead bodies” in the background unzips the body bag and stands up. this isn't the first time this video has been miscaptioned.",
+1,1650725379.167554,BART,"During February 2022, as Ukrainian cities were shelled by Russian missiles, as tanks were hit by Molotov cocktails, and as the death toll from Russia’s invasion of Ukraine stretched into the thousands, a video started circulating on",
+2,1650725379.167554,emotion_selection,"During February 2022, as Ukrainian cities were shelled by Russian missiles, as tanks were hit by Molotov cocktails, and as the death toll from Russia’s invasion of Ukraine stretched into the thousands, a video started circulating on social media that attempted to show that this entire conflict had been staged. ",
+3,1650725379.167554,allegation_sentence,"miscaptioned , A news report on Russia's invasion of Ukraine showed a living person sitting up while in a body bag.
+",
+4,1650724396.149609,T5,a video supposedly showing singer Taylor Momsen escaping from paparazzi with a series of escalating parkour moves is frequently shared on social media. this video actually comes from a 2009 Nike commercial.,
+5,1650724396.149609,BART,This video was created for a Nike advertisement in 2009.  A video supposedly showing singer Taylor Momsen escaping from paparazzi with a series of escalating parkour moves is frequently shared on social media.  taylor momsen,
+6,1650724396.149609,emotion_selection,"But since this video has never been officially shared on Nike’s social media accounts (as far as we can tell this video was originally shared on random YouTube pages as part of an underground marketing effort), there’s always been a bit of doubt about its origins. We reached out to Nike for more information but have not received a response. ",
+7,1650724396.149609,allegation_sentence,"miscaptioned , A video shows singer Taylor Momsen using parkour to escape from paparazzi in real life. 
+",
+8,1650725526.090498,T5,Punxsutawney Phil has been predicting the weather since 1886. the average groundhog only lives between three and six years. he drinks a secret elixir every summer that gives him seven more years of life.,
+9,1650725526.090498,BART,"On Feb. 2, 2022, Punxsutawney Phil, a weather predicting immortal groundhog that lives in a hole on Gobbler’s Knobb in Pennsylvania, crawled out of his burrow for the 136th time",
+10,1650725526.090498,emotion_selection,"The groundhog day tradition in Punxsutawney, Pennsylvania stretches back to the late 1800s. And while the PGC would like you to believe that the original groundhog was kept alive with a secret immortal elixir, the truth is likely a little more gruesome: The original “Phil” was probably eaten. ",
+11,1650725526.090498,allegation_sentence,"legend , Punxsutawney Phil is an immortal groundhog. 
+",
+12,1650750660.950342,T5,"the earthquake was a genuine moment that was filmed during the fifth season of “the office” the scene was likely for the episode titled, “Weight Loss Part 2” the earthquake was the same 5.4 magnitude event that shook Southern California on July 29, 2008.",
+13,1650750660.950342,BART,"On Sept. 17, 2021, the @sometimesdoyouever TikTok account reposted a blooper video that showed an earthquake on the set of “The Office.” The set of The Office gets hit by",
+14,1650750660.950342,emotion_selection,"We were unable to find any panels or interviews where the earthquake was mentioned by cast or crew. However, we will add information to this story should more details come to light.",
+15,1650750660.950342,allegation_sentence,"true , An earthquake occurred while ""The Office"" was filming an episode and it was captured on video.
+",
+16,1650724407.507298,T5,"the mugshot shows a young Gates in police custody in albuquerque, new mexico. Gates himself addressed the arrest that led to the mugshot in 2007. he was 22 at the time and looks all of 16 at the time.",
+17,1650724407.507298,BART,"Bill Gates, the billionaire co-founder of Microsoft, had a few run-ins with the law in his younger days, including one that led to an infamous mugshot that continues to haunt the internet today.  A post shared by",
+18,1650724407.507298,emotion_selection,"Gates himself reportedly first saw the photograph when representatives of the city of Albuquerque asked him if they could release it to Brill’s Content. He also showed it at a May 1998 speech, which many said was a preemptive attempt at damage control. ",
+19,1650724407.507298,allegation_sentence,"true , A mugshot authentically shows a young Bill Gates after he was arrested in 1977 in Albuquerque, New Mexico, for running a stop sign and driving without a license.
+",
+20,1650750861.025361,T5,"in late August 2021, some social media users marveled at reports that actor Sylvester Stallone kept two turtles from the 1976 film he starred in, “Rocky,” as pets. in a 2019 Instagram post, Stallone said the turtles also were in the 2018 film “Cree",
+21,1650750861.025361,BART,"In late August 2021, some social media users marveled at reports that actor Sylvester Stallone kept two turtles from the 1976 film he starred in, “Rocky,” as pets — and that the two turtles are",
+22,1650750861.025361,emotion_selection,"Although many interpreted Stallone’s Instagram post to mean that the actor personally kept the turtles as his own pets, that doesn’t appear to be the case.",
+23,1650750861.025361,allegation_sentence,"false , ""Rocky"" film star Sylvester Stallone kept the turtles from his 1976 film as pets.
+",
+24,1650750740.878819,T5,"in mid-September 2021, Snopes became aware of the above-displayed tweet purportedly showing a Facebook thread where users discussed soaking tampons with the anti-parasitic drug ivermectin. the alleged discussion included a back-and-forth",
+25,1650750740.878819,BART," Snopes is still fighting an “infodemic” of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we’ve learned and how to inoculate yourself against CO",
+26,1650750740.878819,emotion_selection,"[A]: Well there is a place, but I definitely would not recommend it for a man. I remember a guy doing this in college with alcohol and removal was a pain in the…",
+27,1650750740.878819,allegation_sentence,"false , Putting tampons soaked in a liquid solution that includes ivermectin into vaginas is an effective and safe step to fight COVID-19. 
+",
+28,1650725676.19872,T5,the ad was posted on a Facebook page with a strange name: P-15897-2. it was described as a “clothing store” but was nothing more than a quickly-created page. it was likely managed from outside of the u.s.,
+29,1650725676.19872,BART,"On Jan. 4, 2022, a strange Facebook ad appeared that claimed: “The Sudden Loss That Hit ‘Little People, Big World.'” It led to a lengthy article that claimed to reveal news of a death",
+30,1650725676.19872,emotion_selection,"In the Facebook ad about the Roloff family’s “sudden loss,” the caption contained several grammatical errors. It said: “Since the allegation were confirmed to the public, the cast of ‘Little People, Big World’ has ask for some privacy. Here is all the information given to the public so far.”",
+31,1650725676.19872,allegation_sentence,"outdated , The cast of ""Little People, Big World"" experienced a ""sudden loss.""
+",
+32,1657123536.995215,T5,"social media users were posting messages, videos, and photos that allegedly contained the home addresses of six supreme court justices, Thomas, John Roberts, Samuel Alito, Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett. a few days before this credit card rumor gained traction, social media",
+33,1657123536.995215,BART,"In June 2022, shortly after the U.S. Supreme Court issued a ruling that effectively overturned Roe V. Wade and ended the constitutional right to an abortion, rumors started to circulate on social media that Justice Clarence Thomas’ credit card",
+34,1657123536.995215,emotion_selection,Many social media users latched on to this claim and furthered this rumor by alleging that they had made various purchases with Thomas’ card. We have not been able to find evidence to support any of these claims. ,
+35,1657123536.995215,allegation_sentence,"unproven , Videos on TikTok revealed U.S. Supreme Court Justice Clarence Thomas’ credit card number. 
+",
+36,1652286291.854914,T5,"on April 30, 2022, a Facebook user posted what appeared to be a screenshot of a tweet in which Tesla CEO Elon Musk said, “I hate when people confuse education with intelligence.” however, we were unable to find any record that he ever tweeted or said these words.",
+37,1652286291.854914,BART,"While it’s possible that Musk might agree with the sentiment, the fact remains that we found no record of him ever saying or writing the words, and the same quote has been attributed to many other people, before and since.",
+38,1652286291.854914,emotion_selection,"On April 30, 2022, a Facebook user posted what appeared to be a screenshot of a tweet in which Tesla CEO Elon Musk said, “I hate when people confuse education with intelligence. You can have a bachelor’s degree and still be an idiot.” However, we were unable to find any record that he ever tweeted or said these words.",
+39,1652286291.854914,allegation_sentence,"misattributed , Elon Musk once said: “I hate when people confuse education with intelligence. You can have a bachelor’s degree and still be an idiot.”
+",

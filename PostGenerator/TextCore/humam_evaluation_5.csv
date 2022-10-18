@@ -1,0 +1,51 @@
+,id,model,sentence,eval
+0,1651670217.051622,T5,"bob greene: a popular quote denouncing ""book burning"" attributed to dwight d. Eisenhower is correct. he says he urged graduates to look at their own country, even its imperfections, with honesty. greene: we have the disgrace of ra",
+1,1651670217.051622,BART,"It’s true that Eisenhower spoke those exact words during a commencement speech at Dartmouth College in 1953. It should be noted, however, that this very popular version of the passage has been truncated in such a way as to omit",
+2,1651670217.051622,emotion_selection,"As rendered in countless memes making the rounds on social media, it goes like this: “Don’t join the book burners. Don’t think you are going to conceal faults by concealing the evidence that they ever existed. Don’t be afraid to go into your library and read every book.”",
+3,1651670217.051622,allegation_sentence,"correct-attribution , U.S. President Dwight D. Eisenhower said, “Don’t join the book burners. Don’t think you are going to conceal faults by concealing the evidence that they ever existed. Don’t be afraid to go into your library and read every book.”
+",
+4,1650750395.885188,T5,"satire website published fictitious article about 480-pound woman, Annabelle Gaston. she was charged with involuntary manslaughter after husband died during sex. she was arrested last year after calling 911 when husband died.",
+5,1650750395.885188,BART,"In October 2019, the satire website World News Daily Report published a fictitious article about a 480-pound woman, Annabelle Gaston, who was charged with involuntary manslaughter after she accidentally suffocated her husband, Irvin Gaston.",
+6,1650750395.885188,emotion_selection,"This not a genuine news article but a piece of fiction from a website that has previously published junk news stories about gold-plated genitals, a man who got into a bunch of car accidents after receiving a brain transplant from a woman, and a priest who had a crucifix removed from his rectum.",
+7,1650750395.885188,allegation_sentence,"labeled-satire , A 480-pound woman, Annabelle Gaston, was arrested on suspicion of involuntary manslaughter after she suffocated her husband during sex. 
+",
+8,1650725265.010143,T5,"on march 24, 2022, the @googlemapsfun TikTok channel published a new video. it purportedly documented the discovery of a giant snake skeleton off the coast of France. however, this was not true.",
+9,1650725265.010143,BART,"On March 24, 2022, the @googlemapsfun TikTok channel published a new video. It purportedly documented the Google Maps discovery of a giant snake skeleton — that of the extinct Titanoboa — off the coast of France. However",
+10,1650725265.010143,emotion_selection,"In the TikTok clip, the mention of Titanoboa referred to an extinct species of giant snakes. The video briefly showed this picture from Flickr of what appeared to be another sculpture.",
+11,1650725265.010143,allegation_sentence,"miscaptioned , A giant snake skeleton, that of the extinct Titanoboa, was discovered in France on Google Maps.
+",
+12,1657124075.32376,T5,"there is no evidence to confirm or disprove that the tour was given for reconnaissance purposes. the fact check was originally published on Jan. 13, 2021.",
+13,1657124075.32376,BART,"At least one representative gave a tour of the Capitol complex on Jan. 5, 2021, video evidence showed. According to the House Select Committee investigating the Jan. 6 Capitol attack, “some individuals” on that tour attended the",
+14,1657124075.32376,emotion_selection,"Based on this evidence, Snopes changed the original rating on this fact check from “Unproven” to “Mixture.” While evidence proved that a Capitol complex tour took place on Jan. 5, 2021, and that some members of that tour reportedly participated in at least one event hosted by Trump the following day, the assertion that the purpose of the Jan. 5 tour was “reconnaissance” remains unproven. The original article appears below:",
+15,1657124075.32376,allegation_sentence,"mixture , Members of Congress provided “reconnaissance tours” to Capitol rioters the day before the Jan. 6, 2021 insurrection. 
+",
+16,1650750845.673767,T5,a photograph supposedly showing bodies being moved from a refrigerated mortuary truck started circulating online in august 2021. the original photograph was recirculated on social media in august 2021 after it was included in an NBC news report.,
+17,1650750845.673767,BART," Snopes is still fighting an “infodemic” of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we’ve learned and how to inoculate yourself against CO",
+18,1650750845.673767,emotion_selection,This altered image was often accompanied by criticisms about Abbott’s decisions to prohibit mask and vaccine mandates in the state. The New York Times reported at the end of July 2021:,
+19,1650750845.673767,allegation_sentence,"false , A photograph shows several body bags being taken out of a truck adorned with an ""Abbott 2022"" campaign slogan. 
+",
+20,1650725573.690198,T5,"in 2022, an image circulated online allegedly alerting Caucasian customers of the fast food chain McDonald’s that they would be required to pay an additional fee of $1.50 per transaction. McDonald’s has no such policy, but the image appears to be a variation of a similar internet post.",
+21,1650725573.690198,BART,Curious about how Snopes’ writers verify information and craft their stories for public consumption? We’ve collected some posts that help explain how we do what we do. Happy reading and let us know what else you might be,
+22,1650725573.690198,emotion_selection,"In 2012, a similar image with similar wording circulated online claiming that McDonald’s was instituting an additional $1.50 fee on Black customers.",
+23,1650725573.690198,allegation_sentence,"false , McDonald's is charging Caucasian customers a $1.50 service fee.
+",
+24,1650725408.415416,T5,"""there is no purgatory for war criminals. they go straight to hell,"" said the ambassador. he made the comment while confronting the russian ambassador to the u.n.",
+25,1650725408.415416,BART,"On the night of Feb. 23, 2022 (New York time), Ukraine’s ambassador to the United Nations, Sergiy Kyslytsya, had some choice words for his Russian counterpart upon receiving news that Russia had",
+26,1650725408.415416,emotion_selection,"On the night of Feb. 23, 2022 (New York time), Ukraine’s ambassador to the United Nations, Sergiy Kyslytsya, had some choice words for his Russian counterpart upon receiving news that Russia had invaded Ukraine.",
+27,1650725408.415416,allegation_sentence,"correct-attribution , Ukrainian ambassador to the United Nations Sergiy Kyslytsya said war criminals go ""straight to hell"" when confronting his Russian counterpart.
+",
+28,1650750878.401801,T5,"a new meme appeared to compare gasoline prices under presidents Trump and Biden. the photo on the left side of the meme, labeled “Trump,” shows a price range from $1.22 to $1.72. the photo on the right side of the meme, labeled “Biden,” likely",
+29,1650750878.401801,BART,"On Aug. 13, 2021, a new Facebook meme appeared to compare gasoline prices under U.S. Presidents Trump and Biden. The post was virally shared well over 66,000 times in just four days. In reality, this",
+30,1650750878.401801,emotion_selection,"In July 2021, the average gas price in Los Angeles County and other surrounding counties in California was $4.15, well under the cost of $5.59 seen in the meme. Further, as of July 25, the average national gas price was $3.22 per gallon, a far cry from $5.59.",
+31,1650750878.401801,allegation_sentence,"false , A Facebook meme accurately represents the difference in gas prices under U.S. Presidents Donald Trump and Joe Biden, with Biden's presidency and policies being the reason why prices were higher in mid-2021.
+",
+32,1657124071.419114,T5,"the photograph was shared in 2016 on the anniversary of Armstrong's death. the full story behind the photograph was available in the virtual exhibition section of the Louis Armstrong House Museum, located in Corona, queens.",
+33,1657124071.419114,BART,"His fame as a jazz musician and singer took him all over the world, including Egypt, where an iconic photograph showed Louis Armstrong serenading his wife in front of the pyramids and Great Sphinx of Giza.  The New",
+34,1657124071.419114,emotion_selection,"Armstrong spent five days performing in Khartourm, Sudan before departing on January 27 for Egypt. ",
+35,1657124071.419114,allegation_sentence,"true , A real photograph shows Louis Armstrong playing his trumpet for his wife, Lucille Wilson, in front of the Great Sphinx and the pyramids of Giza. 
+",
+36,1650725617.810768,T5,"no historical records exist to corroborate the claim about Alabama 34 years earlier. several online media outlets have presented the alleged historical fact as factual. despite the explicit lack of verification, several online media outlets have presented the purported piece of trivia as factual.",
+37,1650725617.810768,BART,"For more than a half-century, this persistent rumor about Christmas’ history in the United States has infiltrated literature, newspaper articles, and — more recently — the Internet: Alabama was the first state to legally recognize the day as an",
+38,1650725617.810768,emotion_selection,"According to the Alabama Department of Archives and History, the unsubstantiated rumor dates back to at least 1954, when James H. Barnett published a book titled,”The American Christmas.” The Google Books’ preview of the piece showed Barnett wrote the following:",
+39,1650725617.810768,allegation_sentence,"unproven , Alabama was the first U.S. state to legally designate Christmas a state holiday.
+",

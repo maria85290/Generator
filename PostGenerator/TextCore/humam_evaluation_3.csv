@@ -1,0 +1,51 @@
+,id,model,sentence,eval
+0,1650750275.977093,T5,"online ads have claimed: ""These Pipes Were Sticking Out of the Ground, This Is What Was Underneath"" the seemingly endless article used fictitious names like ""Mike Peter"" and ""Dale Hufford"" and appeared to dramatize the otherwise true story.",
+1,1650750275.977093,BART,"Since at least December 2021, online advertisements have claimed: “These Pipes Were Sticking Out of the Ground, This Is What Was Underneath.” Upon further inspection, they led to a 69-page slideshow article about",
+2,1650750275.977093,emotion_selection,"In reality, however, this picture did not show pipes. A red tape dispenser was visible on the ground that was used to mark off various sections of the land. The context of the photograph was that the men were using “ground-penetrating radar to inspect an area” in an attempt to find “a Nazi train carrying gold and diamonds [that] was buried in Poland at the end of the Second World War.” (Spoiler alert: They never found it.)",
+3,1650750275.977093,allegation_sentence,"true , Two friends found pipes in the woods that led to something found underneath.
+",
+4,1650750905.369811,T5,"a video about ""vaccine bandits"" forcing COVID-19 vaccinations racked up millions of views on TikTok. the video was created as a joke, not as a genuine news report, says a user. a link to this alleged newspaper clipping led to a video",
+5,1650750905.369811,BART," Snopes is still fighting an “infodemic” of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we’ve learned and how to inoculate yourself against CO",
+6,1650750905.369811,emotion_selection,"In August 2021, a video about “vaccine bandits” forcing COVID-19 vaccinations onto unsuspecting people in Los Angeles racked up millions of views on TikTok.",
+7,1650750905.369811,allegation_sentence,"false , ""Vaccine bandits"" are forcing COVID-19 vaccinations onto unsuspecting people in Los Angeles. 
+",
+8,1650725436.947865,T5,"on Feb. 17, 2022, a post on reddit in the r/holup subreddit showed a screenshot of a tweet that read: ""Pharrell has listed his Beverly Hills mansion for $17 million."" the tweet was from March 2, 2020: Pharrell has listed his Beverly Hills man",
+9,1650725436.947865,BART,"On Feb. 17, 2022, a post on Reddit in the r/holup subreddit showed a screenshot of a tweet that read: “Pharrell has listed his Beverly Hills mansion for $17 million.” The joke was",
+10,1650725436.947865,emotion_selection,Curious about how Snopes’ writers verify information and craft their stories for public consumption? We’ve collected some posts that help explain how we do what we do. Happy reading and let us know what else you might be interested in knowing.  HolUp from      HolUp ,
+11,1650725436.947865,allegation_sentence,"outdated , Musician Pharrell Williams has listed his Beverly Hills mansion on Zillow for $17 million.
+",
+12,1652433306.436989,T5,a leaked draft opinion overturning roe v. Wade has been viewed as a callous and inhumane argument for the restriction or prohibition of abortion access in the u.s.,
+13,1652433306.436989,BART,"In May 2022, as abortion-rights and anti-abortion activists digested and responded to a leaked majority Supreme Court opinion overturning Roe v. Wade, attention turned to what some presented as a callous and inhumane argument for the",
+14,1652433306.436989,emotion_selection,"Meanwhile, “Americans who believe that abortion should be restricted … note that”:",
+15,1652433306.436989,allegation_sentence,"false , In a leaked majority opinion overturning Roe v. Wade, conservative Supreme Court justices argued that abortion should be banned or restricted in order to boost the “domestic supply of infants” for adoption.
+",
+16,1652286287.61726,T5,"claim appeared to have originated as a joke in early may 2022. a picture of comedian Joy Behar and the words, ""Elon Musk issued a tender offer to buy ‘the View’ outright for $17 and a coupon for a free appetizer at Applebee’s"" spread as a meme",
+17,1652286287.61726,BART,"This claim appeared to have originated as a joke in early May 2022. It spread as a meme on Facebook, perhaps leaving some users to wonder if Musk had earnestly, or jokingly, made the offer to buy “The View",
+18,1652286287.61726,emotion_selection,"This claim appeared to have originated as a joke in early May 2022. It spread as a meme on Facebook, perhaps leaving some users to wonder if Musk had earnestly, or jokingly, made the offer to buy “The View.”",
+19,1652286287.61726,allegation_sentence,"false , Tesla CEO Elon Musk offered $17 and a coupon for a free appetizer at Applebee’s to buy the “The View” talk show.
+",
+20,1650750339.432616,T5,"a new variant of COVID-19 called ""omicron"" emerged in 2021. social media users started looking for old pieces of media containing the word so that they could claim that this variant had been ""predicted"" a 1963 sci-fi movie about an alien parasite that takes over the human body",
+21,1650750339.432616,BART,"The only thing the internet loves more than a good prediction is pretending that a good predictor exists. Since the start of the COVID-19 pandemic, we’ve seen some far-reaching attempts to claim that this contagious and",
+22,1650750339.432616,emotion_selection,"The World Health Organization announced in May that it would be naming new COVID-19 variants as they emerge by using the the Greek alphabet. While the “delta” variant made headlines, there have been several other variants, such as epsilon, Iota and lambda, that didn’t warrant too much concern. When the latest variant emerged, WHO skipped two letters, nu and xi, as they are common surnames, and named the new variant omicron. ",
+23,1650750339.432616,allegation_sentence,"mixture , An ""Omicron"" movie was made in the 1960s. 
+",
+24,1657124145.79,T5,"marjorie Taylor greene, r-ga., misspoke and clearly intended to use the word ""fragrantly"" john avlon: in 2022, a u.s. house of representatives Select Committee held hearings on the attack. avlon: greene",
+25,1657124145.79,BART,"Greene misspoke and clearly intended to use the word “flagrantly.”  In June 2022, as a U.S. House of Representatives Select Committee held public hearings on its investigation into the Jan. 6,",
+26,1657124145.79,emotion_selection,"You know what else we don’t hear enough about? We do not understand what is happening to the over 800 people who have been arrested and charged for the events on Jan. 6. We don’t know what is happening to them, and there are dozens of them right here in this city, wasting away in the D.C. jail, being treated like political prisoners of war. And you know what? This is before they have been convicted of anything. ",
+27,1657124145.79,allegation_sentence,"correct-attribution , In a speech on June 9, 2022, U.S. Rep. Marjorie Taylor Greene said Jan. 6 Capitol attack defendants were having their rights “fragrantly” violated. 
+",
+28,1650750853.005903,T5,a 1991 photograph of a naked baby in a pool swimming after a dollar on a fishing hook was airbrushed out. late front man Kurt cobain reportedly replied by saying that they could censor it by placing a sticker over the baby’s genitals. this quote resurface,
+29,1650750853.005903,BART,"In 1991, as the cover art for Nirvana’s second studio album — a now iconic photograph of a naked baby in a pool swimming after a dollar on a fishing hook — was being prepared, there was some discussion about censoring",
+30,1650750853.005903,emotion_selection,"Fisher wrote: “If anyone has a problem with his dick we can remove it.”“No, surprisingly not. We prepared to alleviate that problem if anyone were to freak out about it by putting a sticker on it saying, “if you are offended by this, you must be a closet pedophile.'”",
+31,1650750853.005903,allegation_sentence,"true , The late Kurt Cobain once argued that the nudity on the cover of the Nirvana album ""Nevermind"" could be covered with a sticker that read: ""If you're offended by this you must be a closet pedophile.""
+",
+32,1652286308.41263,T5,"a pastor at a church in Birmingham, Alabama, posted a message on his facebook page in 2018. john sutter: the unborn are the perfect people to love if you want to claim you love Jesus but dislike people who breathe. he says they are morally uncomplicated, unlike the",
+33,1652286308.41263,BART,"This quote truly originated with a 2018 social media post from Dave Barnhart, a pastor at Saint Junia United Methodist Church in Birmingham, Alabama.  In May 2022, after the leak of a Supreme Court draft opinion showed that the justices",
+34,1652286308.41263,emotion_selection,Prisoners? Immigrants? The sick? The poor? Widows? Orphans? All the groups that are specifically mentioned in the Bible? They all get thrown under the bus for the unborn.,
+35,1652286308.41263,allegation_sentence,"correct-attribution , A viral quote about how “the unborn are a convenient group of people to advocate for” was written by Pastor Dave Barnhart.
+",
+36,1650725691.73178,T5,"a scam promotion for a product called Kraken Male Enhancement featured fake endorsements from Clint eastwood, television personality Dr. Phil, and the cable news network. the ruse appeared to begin with Facebook ads.",
+37,1650725691.73178,BART,"Since at least December 2021, a scam promotion for a product called Kraken Male Enhancement featured fake endorsements from Hollywood actor Clint Eastwood, television personality Dr. Phil, and Fox News. The two celebrities and the cable news network were used without",
+38,1650725691.73178,emotion_selection,"In the past, Eastwood sued based on a similar scam that appeared to use his image and likeness to promote CBD products. On Oct. 3, 2021, The New York Times reported that he won a $6.1 million lawsuit after a Lithuanian company “was accused of using Mr. Eastwood’s image and likeness to make it appear as though he was endorsing their products.”",
+39,1650725691.73178,allegation_sentence,"scam , Clint Eastwood, Dr. Phil, and Fox News all endorsed Kraken Male Enhancement capsules.
+",

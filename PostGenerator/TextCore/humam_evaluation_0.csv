@@ -1,0 +1,51 @@
+,id,model,sentence,eval
+0,1650725457.801289,T5,the holiday falls yearly on february 14. some believe it is a religious holiday centered around a saint named Valentine. the holiday was invented by greeting card companies to make people feel like crap.,
+1,1650725457.801289,BART,"The idea that Valentine’s Day, which falls yearly on Feb. 14, was a cynical gambit by greeting card companies, came with a line of dialogue in the 2004 Jim Carrey/Kate Winslet romance “E",
+2,1650725457.801289,emotion_selection,"The idea that Valentine’s Day, which falls yearly on Feb. 14, was a cynical gambit by greeting card companies, came with a line of dialogue in the 2004 Jim Carrey/Kate Winslet romance “Eternal Sunshine of the Spotless Mind.”",
+3,1650725457.801289,allegation_sentence,"false , Valentine's Day was invented by greeting card companies.
+",
+4,1650725541.455927,T5,video shows truckers from south carolina in the u.s. on their way to join the protest. many people assumed the video was related to the trucker protest in canada. bottomley says the video had nothing to do with convoys headed to canada.,
+5,1650725541.455927,BART,"In January 2022, as hundreds of truckers drove across Canada in a “Freedom Convoy” to protest COVID-19 vaccine mandates, a video started circulating online that supposedly showed truckers from South Carolina in the United States",
+6,1650725541.455927,emotion_selection,The convoy in Canada involved hundreds of trucks driving to Ontario in order to protest Canada’s requirement to have cross-border truckers to be vaccinated against COVID-19. The CBC reported:,
+7,1650725541.455927,allegation_sentence,"miscaptioned , A video shows truckers from South Carolina on their way to join a ""Freedom Convoy"" in Canada. 
+",
+8,1650725359.841572,T5,"for at least several years, online advertisements have made the claim that there’s an unusual or unique tip or trick for cars with automatic headlights. one ad read: “Unique Trick If Your Car Has Automatic Headlights.” another said: “An Unusual Tip If Your Car Has Automatic Headlight",
+9,1650725359.841572,BART,"For at least several years, online advertisements have made the claim that there’s an unusual or unique tip or trick for cars with automatic headlights. One ad read: “Unique Trick If Your Car Has Automatic Headlights.�",
+10,1650725359.841572,emotion_selection,"The bottom of the page appeared to reveal that Comparisons.org was not based in the U.S. It said: “©2022 Comparisons.org. All rights reserved. Azrieli Center, 26 Harokmim St., Holon, Israel.”",
+11,1650725359.841572,allegation_sentence,"false , An online advertisement revealed an unusual or unique tip or trick for cars with automatic headlights.
+",
+12,1650725367.087319,T5,a fictitious article falsely claimed a villa owned by u.s. president Joe biden was bombed by the Russian military. david frum: real raw news does not traffic in genuine news stories. he says the site hosts fictional pieces that play on right-wing conspiracy theories.,
+13,1650725367.087319,BART,"In March 2022, as Russia continued its attack on Ukraine, the website “Real Raw News” published a fictitious article that falsely claimed a villa owned by U.S. President Joe Biden was bombed by the Russian military.",
+14,1650725367.087319,emotion_selection,"There is no truth to this rumor. We addressed this rumor more in depth here, but generally speaking, the U.S. does not own or operate biolabs in Ukraine. While the U.S. has provided some funding to upgrade biolabs in Ukraine, these labs are owned and operated by the Ukraine government. ",
+15,1650725367.087319,allegation_sentence,"false , Russia bombed a Biden-owned villa and several U.S. biolabs in Ukraine. 
+",
+16,1650750681.788327,T5,"a typo appeared to suggest that first-term congresswoman Lauren Boebert had prepared articles of impeachment against both biden and vp Kamala Harris. a second version of the announcement, with the spelling of the word “impeach,” was quickly issued.",
+17,1650750681.788327,BART,"In September 2021, some internet users gleefully shared screenshots that appeared to suggest controversial first-term Congresswoman Lauren Boebert, R-Colorado, or more likely her staff, had included an embarrassing typo in her initial announcement that she had",
+18,1650750681.788327,emotion_selection,"The article of impeachment against Harris accuses her of having “violated her oath of office to support and defend the Constitution” by supporting the Afghanistan withdrawal, as well as having “neglected her duties as Vice President by failing to invoke the 25th Amendment to remove President Biden from office…”",
+19,1650750681.788327,allegation_sentence,"true , In September 2021, an initial news release announcing U.S. Rep. Lauren Boebert's impeachment articles again President Joe Biden and Vice President Kamala Harris included the misspelled slogan ""IMEACH BIDEN.""
+",
+20,1650750888.573073,T5,"the journal Medical Hypotheses publishes extremely speculative notions without the burden of “traditional” peer review. in November 2020, that journal published a paper that argued using face masks to prevent COVID-19 transmission does not work. the paper has been billed as authoritative empirical evidence against mask use",
+21,1650750888.573073,BART,"“We’re still fighting an “infodemic” of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we’ve learned and how to inoculate",
+22,1650750888.573073,emotion_selection,"Psychologically, wearing facemask fundamentally has negative effects on the wearer and the nearby person. Basic human-to-human connectivity through face expression is compromised and self-identity is somewhat eliminated. These dehumanizing movements partially delete the uniqueness and individuality of person who wearing [sic] the facemask as well as the connected person.",
+23,1650750888.573073,allegation_sentence,"false , A ""Stanford/NIH"" study concluded that face masks worn to prevent COVID-19 transmission do not work.
+",
+24,1652286296.214729,T5,claim is based on a years-old screenshot from the MHRA website. this warning about pregnant women taking the vaccine has been revised since it was first published in December 2020. health authorities in Britain and the united states continue to recommend the vaccine for both pregnant and breastfeeding women.,
+25,1652286296.214729,BART,This claim is based on a years-old screenshot from Britain’s Medicines and Healthcare Products Regulatory Agency (MHRA) website that was not included in any “Pfizer docs.” This warning about pregnant women,
+26,1652286296.214729,emotion_selection,"In May 2022, as the death toll from the COVID-19 pandemic surpassed 1 million in the United States, many social media users continued to sow doubt about vaccines by making a series of unfounded and untrue claims related to new documents released by the Food and Drug Administration (FDA) as part of a federal Freedom of Information Act (FOIA) request. ",
+27,1652286296.214729,allegation_sentence,"false ,  Pfizer Inc. admitted in documents released by the Food and Drug Administration, as part of a Freedom of Information Act request, that the COVID-19 vaccine was unsafe to get during pregnancy.  
+",
+28,1650750854.856527,T5,"a quote attributed to the 16th-century german theologian, martin luther, gained prominence during the COVID-19 pandemic. luther: if God should wish to take me, he will surely find me, and i have done what he expected",
+29,1650750854.856527,BART,"Snopes is still fighting an “infodemic” of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we’ve learned and how to inoculate yourself against CO",
+30,1650750854.856527,emotion_selection,"That summer and fall, according to a 1968 collection of Luther’s writings, the plague badly affected the German city of Wittenberg, site of the university where Luther served as chair of the theology department. ",
+31,1650750854.856527,allegation_sentence,"correct-attribution , In 1527, Martin Luther wrote of the Black Death: ""I shall ask God to mercifully protect us""; and ""I shall not avoid person or place but will go freely.""
+",
+32,1650750707.317591,T5,"in late august 2021, vp Kamala Harris visited a monument marking the spot where McCain’s plane was shot down in 1967. many online claimed that she had inadvertently paid tribute to the captors.",
+33,1650750707.317591,BART,"In late August 2021, U.S. Vice President Kamala Harris visited Vietnam and conducted bilateral meetings with the prime minister and president, while on a trip across Southeast Asia. Three years after the passing of Sen. John McCain, who",
+34,1650750707.317591,emotion_selection,"One translation of the inscription, according to a CNN report states: “On 26 October 1967 near the Truc Bach Lake, the Vietnamese people in Hanoi caught [John Sidney McCain]. He was the captain of a group who flew planes in the sky who attacked Hanoi. The number of the plane was A4. The plane fell on Yen Phu power plant. This was one of 10 planes that fell on the same day.”",
+35,1650750707.317591,allegation_sentence,"false , In late August 2021, Vice President Kamala Harris mistakenly laid a wreath commemorating John McCain at a memorial in Hanoi that supposedly celebrates the shooting down of his plane and his capture by the North Vietnamese.
+",
+36,1650725240.965843,T5,"the company has expressed that it will aid efforts in helping repeal the bill that will limit discussions of gender and sexuality in schools. florida’s HB 1557, also known as the ‘Don’t Say Gay’ bill, should never have passed and should never have been signed into law.",
+37,1650725240.965843,BART,"Disney Corp. has come out in opposition to Florida’s Parental Rights In Education bill, also described as the ‘Don’t Say Gay’ bill. After facing criticism from its employees for its initially quiet response",
+38,1650725240.965843,emotion_selection,DeSantis drops the hammer on Hollywood for their criticisms of Florida at the Oscars last night:,
+39,1650725240.965843,allegation_sentence,"true , The Disney Corporation vowed to help repeal Florida’s “Don't Say Gay” bill, saying it “should never have passed and should never have been signed into law.”
+",

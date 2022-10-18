@@ -1,0 +1,51 @@
+,id,model,sentence,eval
+0,1650750797.424343,T5,the new law will recognise the welfare of animals and that pets are valued as more than property. it is already illegal to steal pets in the uk.,
+1,1650750797.424343,BART,"In September 2021, several news outlets and websites reported that the U.K. government had announced its intention to create a new criminal offense of “pet abduction,” in response to a government taskforce report. On Sept.",
+2,1650750797.424343,emotion_selection,"However, in 2016 the Sentencing Council of England and Wales revised their guidelines for theft, meaning “emotional distress” was considered a “significant additional harm” and an aggravating factor that could elevate the theft of a pet to a Category 3 offense, which could bring a prison sentence of up to two years.",
+3,1650750797.424343,allegation_sentence,"true , In September 2021, the U.K. government announced its intention to create a new criminal offense of pet abduction.
+",
+4,1650725633.11374,T5,"emails promoting a ""Pfizer Treatment Survey"" should be avoided and deleted. subject line would not read, ""–C00NFlRmaaTlONN–REeCEe1PT...–+eef”",
+5,1650725633.11374,BART,"At some point during the COVID-19 pandemic, emails about a “Pfizer Treatment Survey” began landing in readers’ inboxes. Such messages promoted “$90 or more” in rewards for",
+6,1650725633.11374,emotion_selection,"Snopes is still fighting an “infodemic” of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we’ve learned and how to inoculate yourself against COVID-19 misinformation. Read the latest fact checks about the vaccines. Submit any questionable rumors and “advice” you encounter. Become a Founding Member to help us hire more fact-checkers. And, please, follow the CDC or WHO for guidance on protecting your community from the disease.",
+7,1650725633.11374,allegation_sentence,"scam , Emails promoting a ""Pfizer Treatment Survey"" promise ""$90 or more"" to participants.
+",
+8,1650725338.79959,T5,"the mission of NASA’s Mars Curiosity rover is to determine whether the red planet was ever home to life, microbial or otherwise. a coin-sized hole was featured in a photograph posted in 2020 on reddit, where it received more than 120,000 upvotes.",
+9,1650725338.79959,BART,Curious about how Snopes’ writers verify information and craft their stories for public consumption? We’ve collected some posts that help explain how we do what we do. Happy reading and let us know what else you might be,
+10,1650725338.79959,emotion_selection,Curious about how Snopes’ writers verify information and craft their stories for public consumption? We’ve collected some posts that help explain how we do what we do. Happy reading and let us know what else you might be interested in knowing.,
+11,1650725338.79959,allegation_sentence,"true , A color photograph shows a dime-sized hole drilled on Mars.
+",
+12,1652433302.751328,T5,"scammers sent misleading text messages in may 2022 that said, “Fans react to the Oprah tragedy.” the texts also included a link that led to a fraudulent page that claimed Oprah Winfrey had endorsed keto weight loss gummies. there’s no evidence that Oprah Winf",
+13,1652433302.751328,BART,"Scammers sent misleading text messages in May 2022 that said, “Fans react to the Oprah tragedy.” Those texts included a link that led to a fraudulent page that claimed Oprah Winfrey had endorsed keto weight loss gummies",
+14,1652433302.751328,emotion_selection,"In order to cancel a recurring order, customers would first need to contact the company to initiate the process. However, that might be a problem for anyone who opted for a “free” bottle of Kwazi Keto Gummies. In the terms and conditions for that specific product, it listed no phone number. The contact page on the Kwazi Keto Gummies website showed only this email address: care@buykwazi.com. Even worse, the area that was supposed to show the return shipping address was left blank, making it more difficult for people to get their money back:",
+15,1652433302.751328,allegation_sentence,"false , Oprah Winfrey died or suffered a tragedy in or before early May 2022. She also endorsed keto weight loss gummies that were created by Weight Watchers.
+",
+16,1650750625.247954,T5,"on Oct. 5, 2021, Snopes came across social media posts questioning if, or why, Snapchat was trying to encourage people to run for political office. the posts’ underlying claim — that the social media platform had rolled out a new feature — was true.",
+17,1650750625.247954,BART,"On Oct. 5, 2021, Snopes came across social media posts like the one displayed below questioning if, or why, Snapchat was trying to encourage people to run for political office.  The posts’ underlying claim —",
+18,1650750625.247954,emotion_selection,"“We know this next generation is the most diverse,” the release stated. “We hope our Run for Office initiative will help shape a more equitable, and reflective, democracy that includes all Americans, including young people.”",
+19,1650750625.247954,allegation_sentence,"true , On Oct. 5, 2021, Snapchat launched a new feature that aims to help young users run for political office.
+",
+20,1650750347.487769,T5,"the Great Green Wall (GGW) initiative plans to have trees extend like a belt across the Sahel region which is at the base of the Sahara. the wall of trees, the meme says, will spread 7,000 km across the continent from coast to coast. the project aims to have the wall extend from Sen",
+21,1650750347.487769,BART,An ambitious effort by a group of African countries to tackle the effects of climate change and desertification has been in the works since 2007. The Great Green Wall (GGW) initiative plans to have trees extend like a belt across the Sa,
+22,1650750347.487769,emotion_selection,Millions of people – particularly rural youth – are currently facing an uncertain future due to the lack of decent rural jobs and continuous loss of livelihoods due to land degradation and falling yields.,
+23,1650750347.487769,allegation_sentence,"mostly-true , More than 20 African countries banded together to combat the spread of the Sahara Desert by planting a giant wall of trees to run across the continent. This wall will stretch for around 7,000 km coast to coast. 
+",
+24,1650750352.861898,T5,"iOS 15 is Apple’s software update released in September 2021. in order to receive the notifications, iPhone users have to enable them in their phones’ settings.",
+25,1650750352.861898,BART,"On Nov. 23, 2021, the British viral news site Unilad published an eyeball-grabbing headline, “Your iPhone Has A Hidden Setting That Will Tell You When It’s About To Snow.”",
+26,1650750352.861898,emotion_selection,"The article referenced a new feature in the Weather app included in the latest major iPhone update. So while it’s true that Apple has a new feature sending you notifications in the event of precipitation, you have to have downloaded iOS 15, which is Apple’s software update released in September 2021.",
+27,1650750352.861898,allegation_sentence,"true , You can get a notification on your iPhone if snow is coming.
+",
+28,1650725351.587332,T5,an image supposedly showing “Isabelle Boyer-Singer” was widely circulated on social media in march 2022. the above-displayed image was created by artist bas Uterwijk in 2021 as part of a series of “AI portraits” of historical figures.,
+29,1650725351.587332,BART,"In March 2022, an image supposedly showing “Isabelle Boye-Singer” was widely circulated on social media along with the claim that she was the original model for the Statue of Liberty:  This is not a",
+30,1650725351.587332,emotion_selection,"The viral image we’re concerned with is a computer-generated image of what the Statue of Liberty might look like if she were a real person, not a photograph of Isabelle Boyer-Singer. But was Boyer-Singer really the model of this famous statue, as the meme above stated? ",
+31,1650725351.587332,allegation_sentence,"mostly-false , A photograph shows Isabelle Boyer-Singer, the woman who modeled for the Statue of Liberty.  
+",
+32,1657124079.226425,T5,"fake father's day statement was a fabrication created by a left-wing group. it gave no inkling as to its true, original source, which was the twitter account @StandforBetter.",
+33,1657124079.226425,BART,"In June 2022, social media users critical of former U.S. President Donald Trump seized upon what appeared to be an unusual official statement in which he marked the occasion of Father’s Day by attacking his political rivals and boosting his",
+34,1657124079.226425,emotion_selection,"The Father’s Day statement did not appear in any of those places, on or around June 19, so one could safely determine it was a hoax even without being aware of its true origins as would-be satire. ",
+35,1657124079.226425,allegation_sentence,"originated-as-satire , In June 2022, Donald Trump marked the occasion of Father’s Day by posting an official statement in which he attacked political rivals, including Liz Cheney and Ron DeSantis.
+",
+36,1650724469.790745,T5,"in 2019, scientists conducted a survey of the lowland rainforest in Honduras. they rediscovered three species previously thought to have been extinct. tiger beetle, false tree coral snake and pale-faced bat were also discovered.",
+37,1650724469.790745,BART,"Deep in the heart of the Mosquitia rainforest in Honduras lies La Ciudad Blanca, the fabled White City said to have once been an ancient metropolis. Named for its large pillars of white stone, the existence",
+38,1650724469.790745,emotion_selection,"Before Spanish colonizers wrote of the mecca, Ciudad Blanca was rumored to have been a city dedicated to a monkey god more than 1,000 years ago.",
+39,1650724469.790745,allegation_sentence,"true , Animals previously thought to be extinct were found alive in the ""lost city"" of La Ciudad Blanca, deep within a rainforest in Honduras.
+",

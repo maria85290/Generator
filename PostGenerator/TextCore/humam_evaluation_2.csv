@@ -1,0 +1,51 @@
+,id,model,sentence,eval
+0,1650724494.781912,T5,"ketanji brown Jackson was nominated to the supreme court in 2022. she presided over the controversial ""Pizzagate"" case in 2017. she has been mentioned more frequently in fringe online groups.",
+1,1650724494.781912,BART,"Judge Ketanji Brown Jackson, nominated to the U.S. Supreme Court, presided over the controversial “Pizzagate” case in 2017. Since her Senate confirmation hearings in late March 2022, many online have been un",
+2,1650724494.781912,emotion_selection,"No one was injured or killed, but Edgar Maddison Welch, the shooter, pleaded guilty in March 2017 to federal charges of assault with a dangerous weapon and transporting a firearm over state lines.",
+3,1650724494.781912,allegation_sentence,"true , Judge Ketanji Brown Jackson, who underwent Senate-confirmation hearings as a nominee for the U.S. Supreme Court in March 2022, presided over the “Pizzagate” case, in which a shooter targeted a pizzeria in Washington, D.C., in 2016.
+",
+4,1650750378.872253,T5,"aedes nigripes, the likeliest species to survive in Iceland, could not due to a range of factors. one mosquito was found in the country on a plane from greenland in 1986. the specimen was preserved in a jar of alcohol but appears to have been misplaced",
+5,1650750378.872253,BART,"An island free of mosquitoes sounds like the dream for those of us who hate their relentless buzzing, the itchy redness that results from being bitten, and bug spray. But it turns out that only a few places in the world possess",
+6,1650750378.872253,emotion_selection,"A major reason that there continue to be no mosquitoes in Iceland, he told us, is because of the island’s geographic isolation. “[Iceland is] 800-900 km to the nearest source of mosquitoes […] i.e. 900 km to Norway and 800 km to Scotland,” he said. ",
+7,1650750378.872253,allegation_sentence,"true , The country of Iceland is mosquito-free.
+",
+8,1650724439.180614,T5,"a picture was circulated on social media showing blackburn making a ""white power"" gesture. blackburn posted a video of herself questioning defense secretary and general. blackburn is the first black woman nominated to the high court.",
+9,1650724439.180614,BART,"In April 2022, a picture was circulated on social media that supposedly showed U.S. Sen. Marsha Blackburn, R-Tenn., making a “white power” gesture during a Senate hearing or vote to confirm Ketan",
+10,1650724439.180614,emotion_selection,"While what is more generally known in the U.S. as the “OK” hand symbol has truly been adopted (or co-opted) by some white supremacists, not every instance of this gesture is necessarily related to a hateful ideology. In most cases, the OK symbol simply means “OK.” The same gesture has also been used as part of a game and by Kappa Alpha Psi, a Black fraternity that was formed in 1911. In other cases, someone might rest their hand in this position without any thought or meaning behind it. ",
+11,1650724439.180614,allegation_sentence,"miscaptioned , Photos show Sen. Marsha Blackburn flashing a ""white power gesture"" during a Senate hearing (or vote) on the confirmation of Ketanji Brown Jackson to the Supreme Court.
+",
+12,1650725513.501652,T5,"a survey scam email was created to look like an official message from the UPS. the email promised an ""exclusive reward"" for taking a ""30-second marketing survey"" however, this was a scam, and was not official correspondence from the company.",
+13,1650725513.501652,BART,"In February 2022, we reviewed a survey scam email that was created to look like an official message from the United Parcel Service, better known as UPS. The email with a UPS logo and picture looked to be a “confirmation",
+14,1650725513.501652,emotion_selection,"After completing a 16-question survey, we were led to additional offers, meaning that the scam involved a seemingly endless road of surveys and false promises:",
+15,1650725513.501652,allegation_sentence,"scam , An email with a UPS logo and picture promise an exclusive reward for taking a 30-second survey.
+",
+16,1650750365.445355,T5,"fake Facebook giveaways appeared on the pages of “the Ellen DeGeneres Show” in November 2021. the fake giveaways promised $1,000 Amazon gift cards, PlayStation 5 gaming consoles, and iPhones. one of the fake profiles showed signs it was potentially operated from Zambia.",
+17,1650750365.445355,BART,"In November 2021, Facebook posts showing pictures from “The Ellen DeGeneres Show” promised giveaway entrants $1,000 Amazon gift cards, PlayStation 5 gaming consoles, and iPhones. However, this was a scam. It also",
+18,1650750365.445355,emotion_selection,"In sum, no, “The Ellen DeGeneres Show” is not running Facebook a giveaway for $1,000 Amazon gift cards, PlayStation 5 consoles, or iPhones. We advise that readers avoid these Facebook scams as they could lead to phishing, theft of personal or financial information, or other negative outcomes.",
+19,1650750365.445355,allegation_sentence,"scam , ""The Ellen DeGeneres Show"" is giving away $1,000 Amazon gift cards, PlayStation 5 consoles, and iPhones, all on Facebook.
+",
+20,1650750694.593847,T5,"black lives matter co-founder Patrisse Cullors purchased a home in topanga, california, for $1.4 million. the story sparked a tsunami of spinoff articles and commentary. the story sparked a cloud of doubt over the finances of the nonprofit",
+21,1650750694.593847,BART,"On April 7, 2021, the real estate gossip website Dirt reported that Black Lives Matter co-founder Patrisse Cullors had purchased a home in Topanga, an eccentric neighborhood located in the western portion of Los Angeles, for $",
+22,1650750694.593847,emotion_selection,"Right-leaning Media Research Center tweeted, “The liberal media won’t cover this: [Black Lives Matter] co-founder Patrisse Cullors bought a 1.4 MILLION dollar house near Beverly Hills.”",
+23,1650750694.593847,allegation_sentence,"unproven , Black Lives Matter co-founder Patrisse Cullors used donations to the movement to buy a $1.4 million mansion.
+",
+24,1650750407.865378,T5,"the 113th congress convened on January 3, 2013, welcoming 81 new Members to the house. john avlon: this meme uses a severely outdated picture to mislead people. avlon: you can help us fight an ""infodemic"" of rumors and misinformation",
+25,1650750407.865378,BART," Snopes is still fighting an “infodemic” of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we’ve learned and how to inoculate yourself against CO",
+26,1650750407.865378,emotion_selection,"On Nov. 15, 2012, the freshman class of the 113th Congress stood on the steps of the U.S. Capitol to take a photograph. Nine years later, in November 2021, this picture was recirculated on social media along with anti-government and anti-mask messages as social media users claimed that the politicians were flouting the rules that had been put in place to slow the spread of disease during the COVID-19 pandemic:",
+27,1650750407.865378,allegation_sentence,"miscaptioned , A photograph shows politicians flouting COVID-19 face-mask rules. 
+",
+28,1650750318.073773,T5,"a white nationalist group known as Patriot Front marched at the Lincoln memorial in 2021. john avlon: figures from the american right sought to undermine the authenticity of the rally. avlon: it is indeed a real, earnestly organized white nationalist group.",
+29,1650750318.073773,BART,"In December 2021, members of a white nationalist group known as Patriot Front marched at the Lincoln Memorial and other parts of the National Mall in Washington, D.C., wearing face coverings and an improvised uniform of khaki pants and dark",
+30,1650750318.073773,emotion_selection,"In December 2021, members of a white nationalist group known as Patriot Front marched at the Lincoln Memorial and other parts of the National Mall in Washington, D.C., wearing face coverings and an improvised uniform of khaki pants and dark blue jackets, and carrying shields and American flags.",
+31,1650750318.073773,allegation_sentence,"false , A Dec. 4, 2021, rally in Washington D.C. was staged or faked by federal agents or actors, rather than a real white nationalist group called Patriot Front. 
+",
+32,1650750967.557243,T5,summit family restaurants filed for bankruptcy in 2021. the restaurant was shuttered due to the COVID-19 pandemic.,
+33,1650750967.557243,BART,"In 2003, a classic episode of the comedic cartoon series “South Park” launched a Colorado restaurant into infamy. The episode featured the show’s often-villainous Eric Cartman visiting his favorite restaurant — Cas",
+34,1650750967.557243,emotion_selection,"Summit Family Restaurants filed for Chapter 11 in April 2021, after being shuttered since mid-March 2020 due to the COVID-19 pandemic. It opened to give free tours in June 2021, but the kitchen remained closed.",
+35,1650750967.557243,allegation_sentence,"true , The creators of the cartoon series ""South Park"" want to buy Casa Bonita, the restaurant featured on the show.
+",
+36,1650750509.375197,T5,"a video shared to the platform on June 19, 2021, went viral after a man claimed to live in a small town in central illinois ""surrounded by cornfields"" the video had been liked more than 31,000 times. the original poster did not name the town in which the bone was reportedly discovered",
+37,1650750509.375197,BART,"A TikTok video shared to the platform on June 19, 2021, went viral after a man who claimed to live in a small town in central Illinois “surrounded by cornfields” said that the world’s largest",
+38,1650750509.375197,emotion_selection,"But in late July, the Chicago Tribune identified the original poster as a man named Merf who lived north of Springfield in the small town of Sherman. In the article, reporter Christopher Borrelli noted that Merf had published subsequent videos in which claims to have applied for press credentials but needed to keep quiet because “science moves slowly.” Eventually, though, the gag was up. Borrelli wrote:  ",
+39,1650750509.375197,allegation_sentence,"false , A dinosaur bone described as the world’s largest tibia was discovered on an Illinois farm.  
+",

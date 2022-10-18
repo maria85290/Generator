@@ -1,0 +1,51 @@
+,id,model,sentence,eval
+0,1650750327.606953,T5,"critics of president Joe Biden jumped into action, suggesting he had declared, ""admitted,"" that his chief medical Adviser was the true president. a proper, contextual viewing of his remarks makes it clear he was speaking in jest.",
+1,1650750327.606953,BART,"In December 2021, critics of U.S. President Joe Biden jumped into action, suggesting he had declared, “admitted,” or let slip that his Chief Medical Adviser Anthony Fauci was, in effect, the",
+2,1650750327.606953,emotion_selection,"At the heart of that rumor was a quotation taken from Biden’s remarks at a news conference on Dec. 2, which was typically presented as follows:",
+3,1650750327.606953,allegation_sentence,"mostly-false , In December 2021, U.S. President Joe Biden sincerely stated that Anthony Fauci, and not he, was the de facto president. 
+",
+4,1650725331.653725,T5,the fake voucher offer for chick-fil-a appeared on facebook.com/ChickFans. the scammers directed users to other posts that looked like the one below.,
+5,1650725331.653725,BART,"In early March 2022, we reviewed several reader emails that inquired about purported voucher offers for Olive Garden and Chick-fil-A on Facebook. The posts on multiple Facebook profiles and pages showed pictures of food at both restaurants and",
+6,1650725331.653725,emotion_selection,"Upon clicking the link in the posts — something we advise readers against doing — we were led to rewardgiantztesters.com and then promotionsonlineusa.com. These websites appeared to lead to endless offers and surveys. Similar websites can also potentially lead to attempts for phishing, identity theft, or other similar outcomes.",
+7,1650725331.653725,allegation_sentence,"scam , Chick-fil-A and Olive Garden are giving away voucher offers for a meal for two with drinks for everyone.
+",
+8,1650750592.118386,T5,the american families plan is an ambitious proposal that aims to expand access to childcare and education. the reporting requirements have caught the ire of banks that took issue with this less widely known section of the plan.,
+9,1650750592.118386,BART,"Announced in April 2021, U.S. President Joe Biden’s American Families Plan is an ambitious proposal that aims to expand Americans’ access to childcare and education and increase the number of women in the workforce. The plan",
+10,1650750592.118386,emotion_selection,"According to Marie Sapirie of Tax Notes, a publication focused on tax news, a parenthetical to the proposal indicates that there is some flexibility “on raising the minimum account balance/inflow/outflow above $600.”",
+11,1650750592.118386,allegation_sentence,"mixture , The Biden Administration’s American Families Plan proposes that financial institutions report all transactions from personal and business accounts except those below $600. 
+",
+12,1650725400.577032,T5,"the video was created with digital combat simulator, a simulation game. the original caption identified this clip as a simulation and noted that it was created as an homage to the Ghost of Kyiv.",
+13,1650725400.577032,BART,"In February 2022, after Russia launched an unprovoked attack on Ukraine, rumors started circulating about a Ukrainian fighter pilot dubbed the “Ghost of Kyiv” who had supposedly shot down multiple Russian fighter jets. As these rumors circulated",
+14,1650725400.577032,emotion_selection,"In February 2022, after Russia launched an unprovoked attack on Ukraine, rumors started circulating about a Ukrainian fighter pilot dubbed the “Ghost of Kyiv” who had supposedly shot down multiple Russian fighter jets. As these rumors circulated, so did a miscaptioned video supposedly showing the Ghost of Kyiv in action:",
+15,1650725400.577032,allegation_sentence,"miscaptioned , A video shows the ""Ghost of Kyiv"" shooting down a Russian fighter jet. 
+",
+16,1650750512.462093,T5,"a picture of a newspaper headline has been shared on websites and social media since 2010. the headline read, “Missippi’s [sic] literacy program shows improvement,” which referred to the state of Mississippi.",
+17,1650750512.462093,BART,"Since at least 2010, a picture of a newspaper headline has been shared on websites and social media. The headline read, “Missippi’s [sic] literacy program shows improvement,” which referred to the state of",
+18,1650750512.462093,emotion_selection,This story might bring to mind Jay Leno’s old “Headlines” segment from his late-night show. The weekly bit involved displaying funny newspaper clippings for laughs. We didn’t find the misspelled headline in any of the Leno clips that were available on YouTube.,
+19,1650750512.462093,allegation_sentence,"false , The Associated Press misspelled the word Mississippi as ""Missippi"" in a headline about literacy.
+",
+20,1650724412.321738,T5,"on April 12, 2022, a video went viral on social media that supposedly showed bird poop falling onto U.S. president Joe Biden’s shoulder. a video of the incident quickly went viral on twitter as many users assumed that a bird had pooped on the president. in fact, photographs",
+21,1650724412.321738,BART,"On April 12, 2022, a video went viral on social media that supposedly showed bird poop falling onto U.S. President Joe Biden’s shoulder as he was speaking at an event in Iowa. We examined that video and photographs",
+22,1650724412.321738,emotion_selection,It certainly seems plausible that what fell onto Biden was a piece of some sort of corn byproduct and not bird poop. ,
+23,1650724412.321738,allegation_sentence,"miscaptioned , A video shows bird poop falling on U.S. President Joe Biden’s shoulder during an event in April 2022. 
+",
+24,1650750453.082792,T5,"the dress is a limited edition through Nov. 26, 2021, and only available to brides aged 21 and over. it also comes with a matching bowtie for the groom.",
+25,1650750453.082792,BART,"Most brides want to be seen on their big day, but apparently some don’t mind blending in to their surroundings. At least that’s what we’re guessing, based on the design of a very unique",
+26,1650750453.082792,emotion_selection,"The dress retails at $749, comes in green and gray camouflage patterns, and has a sweep train and side pockets, according to the dress maker’s website. It also has “BUSCHHHHH” woven into the pattern “subtly.”",
+27,1650750453.082792,allegation_sentence,"true , You can purchase a camouflage-colored, beer-themed wedding gown from David's Bridal.
+",
+28,1657124190.705878,T5,"a meme with an illustration of former U.S. president Ronald Reagan said: ""you won’t get gun control by disarming law-abiding citizens"" the meme claimed that he also said ""those who seek to inflict harm are not fazed"" by gun control laws.",
+29,1657124190.705878,BART,"It’s true that Reagan said these words, though he did so in two separate speeches in 1983. However, the meme deserves extra context regarding the former president’re support for, or engagement with, proposals to restrict who",
+30,1657124190.705878,emotion_selection,"In 1991, Reagan published an op-ed in The New York Times, where he stated his support for a system of “background checks for criminal records or known histories of mental disturbances” that would be maintained by federal authorities. The op-ed also promoted the idea of a waiting period for potential gun owners to make firearm purchases. These were both part of the Brady Handgun Violence Prevention Act, better known as the Brady bill or Brady law. Congress passed that policy package in 1993. It was named after former White House Press Secretary James Brady, who was left paralyzed after an assassination attempt on Reagan in 1981. (This was presumably the “personal experience” with guns that Reagan referred to in the May 1983 speech and the meme references at its end.)",
+31,1657124190.705878,allegation_sentence,"correct-attribution , Former U.S. President Ronald Reagan once said that “you won’t get gun control by disarming law-abiding citizens” and “it’s a nasty truth” that “those who seek to inflict harm are not fazed” by gun control laws.
+",
+32,1650750312.181096,T5,"a video showing Pfizer CEO Albert Bourla refusing to take a COVID-19 jab went viral in 2021. a carbon copy of this rumor was circulated on social media in 2021, but this time it featured the CEO of biontech, instead of Bourla. a",
+33,1650750312.181096,BART," Snopes is still fighting an “infodemic” of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we’ve learned and how to inoculate yourself against CO",
+34,1650750312.181096,emotion_selection,"In December 2021, a carbon copy of this rumor was circulated on social media, only this time it featured Ugur Sahin, the CEO of BioNTech, instead of Bourla. ",
+35,1650750312.181096,allegation_sentence,"miscaptioned , A video shows BioNTech CEO Ugur Sahin refusing to take the COVID-19 vaccine. 
+",
+36,1650725693.308882,T5,"critics of prominent senator seized upon what appeared to be deleted tweet. he confused ""washington state"" with ""western australia"" on twitter. Cruz appeared to write: ""blue-state Dems are power-drunk authoritarian kill-joys""",
+37,1650725693.308882,BART,"In the final few days of 2018, critics of prominent Sen. Ted Cruz seized upon what appeared to be a deleted tweet in which the Texas Republican attacked what he characterized as Democratic overreach in social restrictions aimed at combatting the spread of",
+38,1650725693.308882,emotion_selection,Blue-state Dems are power-drunk authoritarian kill-joys.,
+39,1650725693.308882,allegation_sentence,"correct-attribution , In December 2021, U.S. Sen. Ted Cruz confused Western Australia with Washington state in a tweet attacking Democrats. 
+",

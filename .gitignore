@@ -1,6 +1,8 @@
 v1/*.csv
-*.csv
+Experimento/*.csv
+PostGenerator/*.csv
 .DS_Store
 __pycache__
 .ipynb_checkpoints
 .env
+*.json

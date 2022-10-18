@@ -1,0 +1,51 @@
+,id,model,sentence,eval
+0,1650750243.282131,T5,"the NICB releases statistics that show new year's day to be the holiday upon which most cars are stolen. in its most recent set of data, published in November 2020, NICB stated that once again, more cars were stolen on new years day than any other holiday in 2019.",
+1,1650750243.282131,BART,"When the New Year rolls around, it’s likely that you’ll see some not-exactly feel-good stories posted online about how that holiday is the one on which your car is mostly likely to get stolen.",
+2,1650750243.282131,emotion_selection,"Christmas Day & Christmas Eve ranks at the bottom of our holiday #theft report, but there were still 1,580 vehicles reported stolen on #Christmas in 2019. Don't let your guard down! Make sure to always lock your vehicle. See the report here: https://t.co/m50zYyEsYw pic.twitter.com/MqTeprnncj",
+3,1650750243.282131,allegation_sentence,"true , More cars are stolen on New Year's Day than any other holiday.
+",
+4,1650725409.740191,T5,"on Feb. 24, 2022, Russia launched a full-scale invasion of Ukraine. social media quickly filled up with doctored, misleading, and miscaptioned images. one such video supposedly showed Russian paratroopers landing in Ukraine.",
+5,1650725409.740191,BART,"On Feb. 24, 2022 (local time in Ukraine), Russia launched a full-scale invasion of Ukraine. As the tumultuous events unfolded on the news, social media quickly filled up with doctored, misleading, and miscaptioned",
+6,1650725409.740191,emotion_selection,"This video, which has racked up nearly 400,000 videos, is several years old. It does not show Russian paratroopers landing in Ukraine during the February 2022 invasion.",
+7,1650725409.740191,allegation_sentence,"miscaptioned , A video shows Russian paratroopers landing in Ukraine during an attack in February 2022. 
+",
+8,1650750270.531135,T5,"during the 2021 holiday season, social media users shared photos that appeared to show a limited edition “peppermint Alfredo” pasta sauce from the well-known brand Rag. a reverse image search suggested that the questionable creation was the result of some digital editing.",
+9,1650750270.531135,BART,"During the holiday season, social media users shared, with a mixture of amusement and revulsion, photographs that appeared to show a limited edition “peppermint Alfredo” pasta sauce from the well-known brand Ragú.",
+10,1650750270.531135,emotion_selection,"In recent years, other major brands have produced some unlikely flavor combinations, but such crossovers are also occasionally the subject of hoaxes. “Peppermint Alfredo” fell into the latter category.",
+11,1650750270.531135,allegation_sentence,"false , In 2021, Ragú made a limited edition ""Peppermint Alfredo"" pasta sauce.
+",
+12,1652286306.539778,T5,"a video claiming to show Ukrainian president Volodymyr Zelenskyy with cocaine on his desk went viral in spring 2022. the video was shared from numerous Russian-language sites and blogs, and on Telegram, in late April. it showed Zelenskyy speaking to the Tesla CEO and one other",
+13,1652286306.539778,BART,"A video claiming to show Ukrainian President Volodymyr Zelenskyy with cocaine on his desk during a video call with billionaire Elon Musk went viral in spring 2022, but the footage was clearly doctored.  The video was shared",
+14,1652286306.539778,emotion_selection,"The same clip was posted on the BBC’s website, as well, without any indication of cocaine or a credit card. [Also on Snopes: Yes, Elon Musk Sent Starlink Terminals to Ukraine, But at What Safety Cost?]",
+15,1652286306.539778,allegation_sentence,"false , A video that surfaced in spring 2022 showed cocaine on the desk of Ukrainian President Volodymyr Zelenskyy during a video call with Elon Musk.
+",
+16,1650724405.774905,T5,"the phrase ""testicle tanning"" started trending on twitter on April 18, 2022. a supposed screenshot of a chyron circulated on social media that apparently featured a quote from Heidi Cruz. this is not a genuine quote from Heidi Cruz, nor is this a genuine chyron",
+17,1650724405.774905,BART,"On April 18, 2022, the phrase “testicle tanning” started trending on Twitter, after the practice was touted in a new promo for a “Tucker Carlson Originals” documentary called “The End",
+18,1650724405.774905,emotion_selection,"“So obviously half the viewers are now like, ‘What, testicle tanning? That’s crazy … But my view is, okay, testosterone levels have crashed and nobody says anything about it. That’s crazy. So why is it crazy to seek solutions?”",
+19,1650724405.774905,allegation_sentence,"false , Heidi Cruz was quoted in a Fox News chyron saying that her husband, Sen. Ted Cruz, doesn’t tan his testicles. 
+",
+20,1650725690.843527,T5,"an orangutan has been filmed seemingly defending its home from being demolished by loggers. the video was reportedly filmed in 2013 but only released on Tuesday. according to orangutan foundation international, ""palm oil is the leading cause of orangutan extinction""",
+21,1650725690.843527,BART,"On Jan. 3, 2022, a video was posted to Reddit with the caption: “An orangutan tries to fight off a bulldozer destroying his forest.” It received tens of thousands of upvotes on the r",
+22,1650725690.843527,emotion_selection,An orangutan has been filmed seemingly defending its home from being demolished by loggers.,
+23,1650725690.843527,allegation_sentence,"true , A video shows an orangutan trying to fight off a bulldozer razing an Indonesian forest.
+",
+24,1650750375.11714,T5,"a social media post went viral shortly after Kyle Rittenhouse was acquitted of all charges in the killing of two people during a night of civil unrest. the post claimed, for example, that Rittenhouse was defending a gas station that belonged to his grandparents during the deadly altercation",
+25,1650750375.11714,BART,"In November 2021, shortly after Kyle Rittenhouse was acquitted of all charges in the killing of two people during a night of civil unrest in Kenosha, Wisconsin, a social media post went viral that embellished some aspects of the",
+26,1650750375.11714,emotion_selection,"Kyle Rittenhouse: There were a lot of people there. I don’t really know what was going on, I was just focused on trying to find Mr. Balch. As I was looking for him, couldn’t find him. I said, okay, no problem. I’ll just go back to the Car Source lot Car Source number too.",
+27,1650750375.11714,allegation_sentence,"false , Kyle Rittenhouse was defending a gas station owned by his grandparents when he shot three people during a night of civil unrest in Kenosha, Wisconsin. 
+",
+28,1650725462.678889,T5,"on february 13, 2022, rappers Dr. Dre, Snoop Dogg, Eminem, singer Mary J. Blige and several other performers took the stage for the halftime show of the Super Bowl. one of the most discussed moments of the show came during a transition between the end of E",
+29,1650725462.678889,BART,"On Feb. 13, 2022, rappers Dr. Dre, Snoop Dogg, Eminem, singer Mary J. Blige and several other performers took the stage for the halftime show of the Super Bowl. One of the most discussed moments",
+30,1650725462.678889,emotion_selection,"While Eminem is clearly a supporter of Kaepernick’s kneeling protest, that doesn’t mean he was protesting at the Super Bowl. One major difference between the protests and the Super Bowl show is that the protests took place during the National Anthem. As Kaepernick said in 2016: “I am not going to stand up to show pride in a flag for a country that oppresses black people and people of color.”",
+31,1650725462.678889,allegation_sentence,"mixture , Eminem kneeled in protest of police brutality and in defiance of NFL orders not to during the Super Bowl halftime show in February 2022. 
+",
+32,1650725668.760393,T5,"a 2015 video showing then-U.S. vice president Joe biden has been making the rounds online with claims that he was depicted inappropriately touching a young girl. many said the girl in the video was Maria Piacesi, the niece of Republican U.S. Sen. Steve Daines of Montana",
+33,1650725668.760393,BART,A 2015 video showing then-U.S. Vice President Joe Biden has been making the rounds online with claims that he was depicted inappropriately touching a young girl. Biden has also been accused of such behavior around young girls numerous times over the,
+34,1650725668.760393,emotion_selection,"Biden also called Don. Jr’s pedophilia post “sick” and added, “But he is his father’s son.” ",
+35,1650725668.760393,allegation_sentence,"unproven , U.S. President Joe Biden pinched a young girl’s nipple in 2015, according to video footage of the incident and the girl’s own claims on TikTok.
+",
+36,1650724398.682857,T5,"“Shark Tank” has never endorsed CBD gummies, despite what some online ads claimed in the early months of 2022. a quick glance at these “reviews” showed that they were sponsored content articles featured on news websites.",
+37,1650724398.682857,BART,"“Shark Tank” has never endorsed CBD gummies, despite what some online advertisements claimed in the early months of 2022. Further, we found a number of strange “reviews” for these products in Google search",
+38,1650724398.682857,emotion_selection,"We found dozens of examples of sponsored content “reviews” just like these. The articles contained no information on who had conducted the supposed “reviews.” They also didn’t appear to be written by anyone who speaks English as their first language, consisting of sentences such as, “Smilz CBD Gummies is a scam or not? This will be concluded after a few points.”",
+39,1650724398.682857,allegation_sentence,"scam , The “Shark Tank” cast endorsed CBD Gummies.
+",
